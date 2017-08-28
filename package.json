@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/jhonatangomes/pet/issues"
   },
-  "homepage": "https://github.com/jhonatangomes/pet#readme"
+  "homepage": "https://github.com/jhonatangomes/pet#readme",
+  "devDependencies": {
+    "eslint": "^4.5.0"
+  }
 }
